@@ -1,0 +1,102 @@
+body{
+  background-color: #dbf6e9;
+  text-align: center;
+}
+title{
+  background-color: red
+}
+.top-container{
+  background-color: #9ddfd3;
+  border: 0;
+  padding-top: 100px;
+  border-bottom: 2px solid #f8f1f1;
+  border-style: dotted;
+}
+.middle-container{
+  background-color: #dbf6e9;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 45px;
+  margin-bottom: 0;
+  color: green;
+}
+body{
+  margin: 0
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #00334e;
+}
+.my-profile{
+  border-radius: 50%;
+  border: 1px solid black;
+  margin: 10px;
+}
+.mountain{
+  height: 100%;
+  width: 50%;
+  background-color: #9ddfd3;
+  border-radius: 50%;
+  border: 1px solid orange;
+}
+hr{
+  border-style: dotted;
+  border-color: #ffc93c;
+  width: 30%;
+
+
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: green;
+  margin-top: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  top: 10px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.contact{
+  height: 300px;
+  width: auto;
+  border-radius: 50%;
+}
+.python{
+  height: 100px;
+  width: auto;
+}
+.About-Me{
+  font-style: normal;
+  color: #000000;
+  font-weight: bolder;
+}
+.developer{
+  height: 250px;
+  width: auto;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px;
+}
+.eye{
+  height: 100px;
+  width: auto;
+  border-radius: 50%;
+}
+a{
+  height: 40px;
+  width: auto;
+  font-weight: bolder;
+}
